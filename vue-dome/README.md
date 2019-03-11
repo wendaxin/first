@@ -1,6 +1,6 @@
 # vue-dome
 
-> 仿移动端商城，SPA单页应用，
+> 仿移动端商城，SPA单页应用
 
 涉及vue-cli、vue-router、axios、mint-ui
 
